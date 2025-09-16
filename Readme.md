@@ -7,7 +7,7 @@ Through this repository, I mainly aim to make the India's skills databse (based 
 
 ## Repo structure
 This repo consists of the following major folders:
-1. `Skills and jobs database`: This folder contains codes and databse of all jobs with valid Qualification Files at the National Qualification Register[https://www.nqr.gov.in/]. It is only for the jobs in the NQR, with valid and clean documentation, that skills extraction is possible. 
+1. `Skills and jobs database`: This folder contains codes and databse of all jobs with valid Qualification Files at the [National Qualification Register][https://www.nqr.gov.in/]. It is only for the jobs in the NQR, with valid and clean documentation, that skills extraction is possible. 
 
 <!-- # Steps taken
 1. Download QF excel list from NQR website.
