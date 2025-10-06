@@ -3,3 +3,17 @@ Skills and jobs database/v1_Downloaded active QF pdfs/
 
 # Dump
 Dump/
+
+# Data (temporarily)
+Skills and jobs database/llm_batches/
+Skills and jobs database/Final qf list_cleaned 2Sept25.csv
+Skills and jobs database/NQR website QF list 2Sept25.xlsx
+Skills and jobs database/Uncleaned Jobs and skills database 15Sept25.parquet
+Skills and jobs database/Cleaned Jobs and skills database 6Oct25.parquet
+Analysis of skill clusters/pc_embeddings.pkl
+
+
+
+
+# Others
+.env
